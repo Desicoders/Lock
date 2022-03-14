@@ -6,6 +6,7 @@ import java.util.Scanner;
 public class ClientApp {
 
 	public static void main(String[] args) throws IOException {
+		Lockedme.welcomeMessage();
 		Scanner sc=new Scanner(System.in);
 		String choice="";
 		do {

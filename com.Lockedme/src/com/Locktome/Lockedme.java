@@ -17,6 +17,15 @@ Date : 14th/march/2022
 */
 
 public class Lockedme {
+	public static void welcomeMessage() {
+		System.out.println("WELCOME TO LOCKEDME.COM\r\n" + 
+				"***************************************************\r\n" + 
+				"DEVELOPER NAME: Bhuwan Agrawal\r\n" + 
+				"***************************************************\r\n" + 
+				"Date : 14th/march/2022");
+		
+		
+	}
 	static String path="File Database";
 	public static void display_all_files() {
 	
