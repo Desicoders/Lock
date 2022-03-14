@@ -1,0 +1,2 @@
+hello this is file f2 in line 1 abcd
+hello this is file f2 in line 2 abcd
